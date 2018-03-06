@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoScreenRecording</string>
+
+    <string name="screen_recording_stopped_toast">Screen recording Stopped</string>
+
+    <!--Simple Name of the widget-->
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+
+
+    <!--Name of the intents-->
+    <string name="share_intent">Share</string>
+    <string name="pause_intent">Pause</string>
+    <string name="resume_intent">Resume</string>
+
+</resources>
